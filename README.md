@@ -25,3 +25,4 @@ createCards()
 doCardsMatch()
 onCardFlipped()
 resetGame()
+<img width="808" alt="Screenshot 2025-05-22 at 2 05 42 PM" src="https://github.com/user-attachments/assets/9f7fd4a5-3483-4a7b-a17c-b6fe5d5c5c7d" />
