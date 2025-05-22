@@ -1,6 +1,6 @@
 # 🃏 Match Game
 
-🧠 Overview
+### 🧠 Overview
 
 A simple memory match game built with JavaScript. Click cards to flip, find pairs, and win!
 ⚙️ What I Did
